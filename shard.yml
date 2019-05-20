@@ -1,0 +1,13 @@
+name: duccs
+version: 0.1.0
+
+authors:
+  -  <>
+
+targets:
+  duccs:
+    main: src/duccs.cr
+
+crystal: 0.24.2
+
+license: MIT
